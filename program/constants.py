@@ -3,7 +3,7 @@ from decouple import config
 
 
 #!!! SELECT MODE!!
-MODE = "DEVELOPMENT"
+MODE = "PRODUCTION"
 
 #CLOSE ALL POSITIONS
 ABORT_ALL_POSITIONS = True
